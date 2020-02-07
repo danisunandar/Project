@@ -6,7 +6,7 @@ Project Website.
 2. Denny Nur Ramadhan (1841720044)
 
 ## Biodata ##
-Nama		: Abdurrasyid Muhasibi
-Kelas		: TI-2A
-NIM			: 1841720213
-Minat		: Mobile (Android)
+> Nama		: Abdurrasyid Muhasibi
+> Kelas		: TI-2A
+> NIM			: 1841720213
+> Minat		: Mobile (Android)
