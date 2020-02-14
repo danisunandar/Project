@@ -19,3 +19,8 @@ Project Website.
 > Kelas		: TI-2A
 > NIM			: 1841720044
 > Minat		: IOT
+
+### Progres ###
+1. (Jum'at, 14 Februari 2020)
+> Menentukan object observasi.
+> Menentukan pertanyaan-pertanyaan yang akan diajukan saat observasi.
