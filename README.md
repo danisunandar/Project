@@ -21,6 +21,6 @@ Project Website.
 > Minat		: IOT
 
 ### Progres ###
-1. (Jum'at, 14 Februari 2020)
-> Menentukan object observasi.
-> Menentukan pertanyaan-pertanyaan yang akan diajukan saat observasi.
+(Jum'at, 14 Februari 2020)
+1.Menentukan object observasi.
+2.Menentukan pertanyaan-pertanyaan yang akan diajukan saat observasi.
