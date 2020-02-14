@@ -6,8 +6,8 @@ Project Website.
 2. Denny Nur Ramadhan (1841720044)
 
 ### Objek Observasi ###
-Nama		: Toko Bangunan Kemuning
-Alamat	: Jl. Panglima Sudirman No.35, Ketawang, Ngadilangkung, Kec. Kepanjen, Malang, Jawa Timur 65163
+1. Nama		: Toko Bangunan Kemuning
+2. Alamat	: Jl. Panglima Sudirman No.35, Ketawang, Ngadilangkung, Kec. Kepanjen, Malang, Jawa Timur 65163
 
 ## Biodata ##
 > Nama		: Abdurrasyid Muhasibi
