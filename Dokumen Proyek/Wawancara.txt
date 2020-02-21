@@ -1,0 +1,44 @@
+Q: Mas nya namanya siapa?
+A: Samsul
+
+Q: Kerja berapa lama?
+A: 10 tahun (dari awal)
+
+Q: Libur kerja hari apa saja?
+A: Hari minggu dan hari besar juga
+
+Q: Absensi karyawan bagaimana?
+A: Manual, tulis di kertas. 
+
+Q: Sistem penggajian bagaimnana?
+A: Manual, tiap minggu-nya.
+
+Q: Perbedaan gaji antar karyawan?
+A: Ada
+
+Q: Kelola gudang bagaimana?
+A: Stok manual, barang masuk, ketik biasa
+
+Q: Suplly barang dari berapa tempat?
+A: Banyak tempat, lebih dari 20
+
+Q: Apakah terdapat jadwal supply barang?
+A: Tidak, order barang kalo stok barang kurang saja.
+
+Q: Jadwal pencocokan stok gudang?
+A: Belum ada
+
+Q: Pencatatan jual beli/transaksi?
+A: Masih memakai nota
+
+Q: Konsumen/pelanggan tiap hari nya kira-kira berapa?
+A: Banyak, barang yang dibeli kecil", kalau pakai print mungkin bisa.
+
+Q: Setiap bulan apakah terjadi peningkatan pendapatan?
+A: Ada
+
+Q: Apakah terdapat permasalahan saat mengelola barang/gudang/karyawan/transaksi?
+A: Ada perbedaan pencatatan antara gudang dan jual beli, item beda".
+
+Q: Kenaikan dan penurunan harga disebabkan oleh apa?
+A: Tergantung pengambilan, beda tempat beda harga, transport dll mempengaruhi harga.
