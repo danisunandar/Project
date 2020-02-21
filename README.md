@@ -31,3 +31,6 @@ Project Website.
 
 (Rabu, 17 Februari 2020)
 1. Tanda tangan laporan observasi ke Toko Bangunan Kemuning
+
+(Jum'at, 21 Februari 2020)
+1. Progres Proposal Proyek v1
