@@ -1,0 +1,38 @@
+(21 Februari 2020)
+### Proposal ###
+> Tidak membahas teknis ke sistem.
+
+# Latar Belakang #
+> Singkat, jelas, to the point ke permasalahan.
+> Dalam 1 paragraf dapat highlight 1 permasalahan.
+
+# Rumusan Masalah #
+> Poin permasalahan yang diulas di latar belakang.
+> 1 kalimat tanya, tidak memakai tanda tanya.
+
+# Tujuan & Manfaat #
+> Ditujukan untuk client.
+
+# Cakupan Proyek #
+> Spesifikasi sistem (fitur), mudah dipahami client (tidak memerlukan use case, dfd, flowchart, dll).
+> Fitur apa yang disediakan.
+> Apa yang perlu dipersiapkan untuk mendapatkan sistem itu.
+> Siapa yang memakai sistem tersebut.
+> Support. Pendampingan, pelatihan, upgrade system, maintenance.
+
+# RAB #
+> Berdasarkan modul (bagian kecil dari sistem: absensi, penggajian, dll) pada sistem.
+
+NOTE	:
+> Latar Belakang terlalu umum, bertele tele.
+> Cakupan Proyek kurang jelas.
+> Pembahasan lebih ke penjelasan sistem, bukan ke teknis.
+> Portofolio (yg mendukung proyek) belum dimasukkan (individu/tim).
+> Butuh data transaksi.
+
+Prolem	:
+> Sulit meminta data transaksi, hanya 1 pembukuan, tidak ada duplicat.
+> Hanya nota dan absensi pegawai yang bisa didapat.
+> Nota setelah dicatat di pembukuan, tidak digunakan (dibuang).
+
+NEXT	: Fokus ke Fitur nya, apa saja?
