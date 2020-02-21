@@ -24,3 +24,10 @@ Project Website.
 (Jum'at, 14 Februari 2020)
 1. Menentukan object observasi.
 2. Menentukan pertanyaan-pertanyaan yang akan diajukan saat observasi.
+
+(Senin, 16 Februari 2020)
+1. Observasi ke Toko Bangunan Kemuning.
+2. Membuat laporan observasi
+
+(Rabu, 17 Februari 2020)
+1. Tanda tangan laporan observasi ke Toko Bangunan Kemuning
