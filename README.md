@@ -21,6 +21,9 @@ Project Website.
 > Minat		: IOT
 
 ### Progres ###
+(Jum'at, 7 Februari 2020)
+1. Upload base Codeigniter
+
 (Jum'at, 14 Februari 2020)
 1. Menentukan object observasi.
 2. Menentukan pertanyaan-pertanyaan yang akan diajukan saat observasi.
