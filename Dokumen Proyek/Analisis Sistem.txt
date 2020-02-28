@@ -1,0 +1,14 @@
+Topic : Analisis Desain (Object Oriented)
+
+>Analisis sistem adalah bagian dari daur hidup pengembagan sistem.
+>Tujuan, mempelajari dan memahami sistem > menganalisis masalah, melihat peluang yang dapat dikembangkan dan juga batasan-batasannya.
+>Apa yang dimau client, apa yang dibuat developer, harus sinkron.
+>Metode Tradisional : wawancara, angket, observasi, analisis prosedur/dokumen.
+>Metode Modern : JAD,GSS,CASE(tools),BPR.
+>Tools Analisis Sistem : DFD, Use Case, ERD.
+
+Pemodelan Use Case, jangan DFD.
+Step
+> User Requirement List (Table)
+> Struktural : DFD
+> ADBO : Use Case > Skenario Use Case (DETAIL!) > Class Diagram > Sequence Diagram (bukan alur/proses bisnis)
