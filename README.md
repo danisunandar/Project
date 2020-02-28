@@ -37,3 +37,6 @@ Project Website.
 
 (Jum'at, 21 Februari 2020)
 1. Progres Proposal Proyek v1
+
+(Jum'at, 28 Februari 2020)
+1. Progres SKPL
