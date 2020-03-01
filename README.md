@@ -4,6 +4,7 @@ Project Website.
 ### Anggota Kelompok ###
 1. Abdurrasyid Muhasibi (1841720213)
 2. Denny Nur Ramadhan (1841720044)
+3. Dani Sunandar (1741720205)
 
 ### Objek Observasi ###
 1. Nama		: Toko Bangunan Kemuning
@@ -19,6 +20,11 @@ Project Website.
 > Kelas		: TI-2A
 > NIM			: 1841720044
 > Minat		: IOT
+
+> Nama		: Dani Sunandar
+> Kelas		: TI-2A
+> NIM			: 1741720205
+> Minat		: 
 
 ### Progres ###
 (Jum'at, 7 Februari 2020)
